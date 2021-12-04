@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HEDAETUL-ISLAM
+- 👋 Hi, I’m HEDAETUL ISLAM
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me: hedaetul.islam@tekarsh.com
