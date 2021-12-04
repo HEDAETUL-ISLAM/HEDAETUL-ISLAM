@@ -2,7 +2,6 @@
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me: hedaetul.islam@tekarsh.com
-- 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
